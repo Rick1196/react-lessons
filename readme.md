@@ -5,7 +5,7 @@ To create practical examples to my react lessons that you can see on the link
 ## Is this a stand-alone prohect?
 Nope, this is not a project, just practical examples, not an entire app
 
-## Is this project using any thid party library
+## Is this project using any third party library
 Yeah, will use
 - React-query
 - Redux
